@@ -1,4 +1,4 @@
-## Hi there, I'm Dharaneesh R P! 👋
+## Hi there, I'm Dharaneesh! 👋
 
 ### About Me
 I am currently a student at Coimbatore Institute of Technology, pursuing my Masters in Artificial Intelligence and Machine Learning (AIML) (Batch of 2021-2026). My passion for technology is complemented by my logical thinking and problem-solving abilities.
