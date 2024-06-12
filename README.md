@@ -3,21 +3,17 @@
 ### About Me
 I am currently a student at Coimbatore Institute of Technology, pursuing my Masters in Artificial Intelligence and Machine Learning (AIML) (Batch of 2021-2026). My passion for technology is complemented by my logical thinking and problem-solving abilities.
 
-### Current Project
+
 🔭 I’m currently working on a website project, where I get to apply my skills and knowledge in web development and AIML.
 
-### Learning
 🌱 I’m constantly learning and exploring new technologies in the field of Artificial Intelligence and Machine Learning. My goal is to stay updated with the latest advancements and continuously improve my skill set.
 
-### Contact Me
 📫 How to reach me:
 - Email: [rpddharaneesh@gmail.com](mailto:rpddharaneesh@gmail.com)
 - LinkedIn: [Dharaneesh R P](https://www.linkedin.com/in/dharaneesh-r-p/)
 
-### Fun Fact
 ⚽ Apart from my interest in the tech community, I am also a football player. Playing football helps me stay active and enhances my team-building skills.
 
-### Pronouns
 😄 Pronouns: He/Him
 
 Feel free to connect with me or check out my projects. Let's innovate and create something amazing together!
