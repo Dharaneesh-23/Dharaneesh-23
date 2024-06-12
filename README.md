@@ -3,14 +3,11 @@
 ### About Me
 I am currently a student at Coimbatore Institute of Technology, pursuing my Masters in Artificial Intelligence and Machine Learning (AIML) (Batch of 2021-2026). My passion for technology is complemented by my logical thinking and problem-solving abilities.
 
-### Current Work
+### Current Project
 🔭 I’m currently working on a website project, where I get to apply my skills and knowledge in web development and AIML.
 
 ### Learning
 🌱 I’m constantly learning and exploring new technologies in the field of Artificial Intelligence and Machine Learning. My goal is to stay updated with the latest advancements and continuously improve my skill set.
-
-### Collaboration
-👯 I’m looking to collaborate on AIML projects, web development, and any innovative tech solutions. If you have a project or an idea that you think I can contribute to, feel free to reach out!
 
 ### Contact Me
 📫 How to reach me:
