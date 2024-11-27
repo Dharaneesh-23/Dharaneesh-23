@@ -11,7 +11,7 @@ I am currently a student at Coimbatore Institute of Technology, pursuing my Mast
 ## Certifications and Badges
 
 ### Microsoft Learn Achievements
-[![Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/badges/azure-developer-associate.svg)](https://learn.microsoft.com/achievements/azure-developer-associate)
+[![Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg)](https://learn.microsoft.com/achievements/azure-developer-associate)
 
 📫 How to reach me:
 - Email: [rpddharaneesh@gmail.com](mailto:rpddharaneesh@gmail.com)
