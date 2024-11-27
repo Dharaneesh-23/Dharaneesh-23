@@ -8,6 +8,11 @@ I am currently a student at Coimbatore Institute of Technology, pursuing my Mast
 
 🌱 I’m constantly learning and exploring new technologies in the field of Artificial Intelligence and Machine Learning. My goal is to stay updated with the latest advancements and continuously improve my skill set.
 
+## Certifications and Badges
+
+### Microsoft Learn Achievements
+[![Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/badges/azure-developer-associate.svg)](https://learn.microsoft.com/achievements/azure-developer-associate)
+
 📫 How to reach me:
 - Email: [rpddharaneesh@gmail.com](mailto:rpddharaneesh@gmail.com)
 - LinkedIn: [Dharaneesh R P](https://www.linkedin.com/in/dharaneesh-r-p/)
