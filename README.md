@@ -12,6 +12,9 @@ I am currently a student at Coimbatore Institute of Technology, pursuing my Mast
 - <a href="https://learn.microsoft.com/en-us/users/dharaneeshrp-9365/transcript/7xr84ty0w550p0o?tab=tab-learning-paths">
     <span><b>Microsoft Learn</b></span>
   </a>
+- <a href="https://drive.google.com/drive/folders/11pIVo87mqgAfnboPn_BiyOPlL0QVyFvn?usp=sharing">
+    <span><b>Online courses</b></span>
+</a>
 
 
 
