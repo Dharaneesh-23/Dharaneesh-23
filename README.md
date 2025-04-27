@@ -10,7 +10,7 @@ I am currently a student at Coimbatore Institute of Technology, pursuing my Mast
 
 ### Certifications and Badges
 - <a href="https://learn.microsoft.com/en-us/users/dharaneeshrp-9365/transcript/7xr84ty0w550p0o?tab=tab-learning-paths">
-    <img src="https://www.google.com/imgres?q=microsoft%20learn%20logo&imgurl=https%3A%2F%2Fcdn-dynmedia-1.microsoft.com%2Fis%2Fimage%2Fmicrosoftcorp%2FMlearn-VL%3FresMode%3Dsharp2%26op_usm%3D1.5%2C0.65%2C15%2C0%26wid%3D2000%26hei%3D1672%26qlt%3D100%26fit%3Dconstrain&imgrefurl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-viva%2Flearning&docid=2c5740KT-EgZ9M&tbnid=Jn5_5nWM9ffY4M&vet=12ahUKEwj07MzV0veMAxXDaPUHHTftIj4QM3oECBkQAA..i&w=2000&h=1672&hcb=2&ved=2ahUKEwj07MzV0veMAxXDaPUHHTftIj4QM3oECBkQAA" width="80"/>
+    <img src="https://www.google.com/imgres?q=microsoft%20learn%20logo&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*9JVPUf0dWlU9hi2o48u3qA.jpeg&imgrefurl=https%3A%2F%2Fmedium.com%2Fmicrosoft-student-champs-sri-lanka%2Fwhat-and-why-is-microsoft-learn-8452f7ce7602&docid=eEtfTZXEih053M&tbnid=KiZ4pM3rFs-IpM&vet=12ahUKEwj07MzV0veMAxXDaPUHHTftIj4QM3oECF8QAA..i&w=1400&h=1000&hcb=2&ved=2ahUKEwj07MzV0veMAxXDaPUHHTftIj4QM3oECF8QAA" width="80"/>
   </a>
 
 
