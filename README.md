@@ -9,7 +9,10 @@ I am currently a student at Coimbatore Institute of Technology, pursuing my Mast
 🌱 I’m constantly learning and exploring new technologies in the field of Artificial Intelligence and Machine Learning. My goal is to stay updated with the latest advancements and continuously improve my skill set.
 
 ### Certifications and Badges
-- [![Azure Fundamentals](https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-conepts.svg)](https://learn.microsoft.com/en-us/users/dharaneeshrp-9365/transcript/7xr84ty0w550p0o?tab=tab-learning-paths)
+- - <a href="[YOUR_AZURE_PROFILE_LINK](https://learn.microsoft.com/en-us/users/dharaneeshrp-9365/transcript/7xr84ty0w550p0o?tab=tab-learning-paths)">
+    <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" alt="Azure Fundamentals" width="100"/>
+  </a>
+
 
 
 
