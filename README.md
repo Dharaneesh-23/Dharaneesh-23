@@ -1,6 +1,6 @@
-## Hi there, I'm Dharaneesh! 👋
+### Hi there, I'm Dharaneesh! 👋
 
-### About Me
+## About Me
 I am currently a student at Coimbatore Institute of Technology, pursuing my Masters in Artificial Intelligence and Machine Learning (AIML) (Batch of 2021-2026). My passion for technology is complemented by my logical thinking and problem-solving abilities.
 
 
@@ -8,7 +8,7 @@ I am currently a student at Coimbatore Institute of Technology, pursuing my Mast
 
 🌱 I’m constantly learning and exploring new technologies in the field of Artificial Intelligence and Machine Learning. My goal is to stay updated with the latest advancements and continuously improve my skill set.
 
-### Certifications and Badges
+## Certifications and Badges
 - <a href="https://learn.microsoft.com/en-us/users/dharaneeshrp-9365/transcript/7xr84ty0w550p0o?tab=tab-learning-paths">
     <span><b>Microsoft Learn</b></span>
   </a>
@@ -16,7 +16,7 @@ I am currently a student at Coimbatore Institute of Technology, pursuing my Mast
 
 
 
-### 📫 How to reach me:
+## How to reach me:
 - Email: [rpddharaneesh@gmail.com](mailto:rpddharaneesh@gmail.com)
 - LinkedIn: [Dharaneesh R P](https://www.linkedin.com/in/dharaneesh-r-p/)
 
