@@ -13,7 +13,7 @@ I am currently a student at Coimbatore Institute of Technology, pursuing my Mast
     <span><b>Microsoft Learn</b></span>
   </a>
 - <a href="https://drive.google.com/drive/folders/11pIVo87mqgAfnboPn_BiyOPlL0QVyFvn?usp=sharing">
-    <span><b>Online courses</b></span>
+    <span><b>Online courses & Achievements</b></span>
 </a>
 
 
